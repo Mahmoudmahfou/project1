@@ -1,0 +1,41 @@
+
+
+
+
+
+/* start Carousel wrapper */
+
+.carousel-control-prev-icon {
+    background-image: none;
+    
+}
+.carousel-control-prev-icon:after {
+    --mdb-carousel-control-icon-font-size: 2.5rem;
+    color: #59ab6e;
+}
+.carousel-control-next-icon {
+    background-image: none;
+    
+}
+.carousel-control-next-icon:after{
+    --mdb-carousel-control-icon-font-size: 2.5rem;
+    color: #59ab6e;
+}
+.carousel-indicators [data-mdb-target]{
+    background-color: #59ab6e;
+    height: 7px;
+}
+
+/* End Carousel wrapper */
+
+/* start Featured Product */
+.featured_Product{
+    background-color:#e9eef5 ;
+}
+small{
+    font-size: 16px;
+}
+/* End Featured Product */
+.mahmoud {
+    color: red !important;
+}
